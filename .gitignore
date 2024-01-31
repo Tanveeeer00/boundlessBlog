@@ -1,0 +1,10 @@
+boundless blog/blogenv/
+boundless blog/db.sqlite3
+
+boundless blog/boundless/migrations/
+/boundless/settings/local.py
+.vscode/
+.idea/
+*.pyc
+boundless blog/logs/
+boundless blog/__pycache__/
